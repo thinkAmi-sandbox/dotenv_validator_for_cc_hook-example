@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/thinkami/project/claude_code/dot_env/.claude/scripts/dot_env_validator.py"
+          }
+        ]
+      }
+    ]
+  }
+}
