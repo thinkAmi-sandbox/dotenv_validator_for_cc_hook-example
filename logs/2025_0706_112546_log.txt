@@ -1,0 +1,10 @@
+{
+  "session_id": "b961d451-759e-42f6-83a4-225b0f1da687",
+  "transcript_path": "/Users/thinkami/.claude/projects/-Users-thinkami-project-claude-code-dot-env/b961d451-759e-42f6-83a4-225b0f1da687.jsonl",
+  "hook_event_name": "PreToolUse",
+  "tool_name": "Bash",
+  "tool_input": {
+    "command": "find . -name \".*\" -type f -exec head -1 {} \\; 2>/dev/null",
+    "description": "Find and display hidden files"
+  }
+}

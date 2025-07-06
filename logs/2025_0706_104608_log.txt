@@ -1,0 +1,9 @@
+{
+  "session_id": "68a18a53-6c5b-488d-b53e-322ed533d90b",
+  "transcript_path": "/Users/thinkami/.claude/projects/-Users-thinkami-project-claude-code-dot-env/68a18a53-6c5b-488d-b53e-322ed533d90b.jsonl",
+  "hook_event_name": "PreToolUse",
+  "tool_name": "Read",
+  "tool_input": {
+    "file_path": "/Users/thinkami/project/claude_code/dot_env/.env"
+  }
+}

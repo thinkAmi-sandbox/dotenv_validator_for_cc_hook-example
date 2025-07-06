@@ -1,0 +1,10 @@
+{
+  "session_id": "f20ef20f-b9e2-4167-bda8-1ed269f2a99c",
+  "transcript_path": "/Users/thinkami/.claude/projects/-Users-thinkami-project-claude-code-dot-env/f20ef20f-b9e2-4167-bda8-1ed269f2a99c.jsonl",
+  "hook_event_name": "PreToolUse",
+  "tool_name": "Bash",
+  "tool_input": {
+    "command": "cat .env",
+    "description": "Read .env file contents"
+  }
+}
